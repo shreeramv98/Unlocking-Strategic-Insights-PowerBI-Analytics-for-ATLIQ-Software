@@ -1,4 +1,4 @@
-# Business-Insights-for-Sotware-Company-Using-Power-BI
+# Unlocking Strategic Insights: PowerBI Analytics for ATLIQ Software
 
 Project Review:
 
